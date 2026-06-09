@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech student in Computer Science and Business Systems at Techno Main Salt Lake<br>💻 Passionate about Full-Stack Development, AI-driven applications, and problem solving<br>🚀 Skilled in Python, Java, JavaScript, React, Node.js, PHP, Firebase, MongoDB, MySQL, and PostgreSQL<br>🛠 Built projects like an AI Internship Recommender, Scholarship Management System, and Public Speaking Support Web App<br>📚 Strong foundation in Data Structures, Algorithms, DBMS, REST APIs, and software development concepts<br>🌱 Actively seeking Software Engineering, Full-Stack, and AI/ML internship opportunities to learn and contribute
+🎓 B.Tech student in Computer Science and Business Systems at Techno Main Salt Lake<br>💻 Passionate about Full-Stack Development, AI-driven applications, and problem solving<br>🚀 Skilled in Python, Java, JavaScript, React, Node.js, PHP, Firebase, MongoDB, MySQL, and PostgreSQL<br>🛠 Built projects like an AI Internship Recommender, Scholarship Management System, and Public Speaking Support Web App<br>📚 Strong foundation in Data Structures, Algorithms, DBMS, REST APIs, and software development concepts<br>🌱 Actively seeking Software Engineering, Full-Stack, and AI/ML internship opportunities to learn and contribute.
 
 
 ## 🌐 Socials:
